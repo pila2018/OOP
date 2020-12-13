@@ -12,11 +12,6 @@ class Program
 
 {
 
-/// <summary>
-
-///
-
-/// </summary>
 
 public class A
 
